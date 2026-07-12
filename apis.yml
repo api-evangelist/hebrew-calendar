@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://www.hebcal.com/home/developer-apis
 common:
+  - type: VulnerabilityDisclosure
+    url: security/hebrew-calendar-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/hebrew-calendar-domain-security.yml
   - type: Website
     url: https://www.hebcal.com/home/developer-apis
   - type: PublicAPIsListing
