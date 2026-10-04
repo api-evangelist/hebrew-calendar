@@ -39,7 +39,6 @@ apis:
   - name: Hebrew Calendar
     description: "Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc"
     humanURL: https://www.hebcal.com/home/developer-apis
-    baseURL: https://www.hebcal.com/home/developer-apis
     tags:
       - Calendar
     properties:
