@@ -27,7 +27,7 @@ description: "Convert between Gregorian and Hebrew, fetch Shabbat and Holiday ti
 url: https://www.hebcal.com/home/developer-apis
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Calendar"
 x-tier: 3
@@ -45,6 +45,8 @@ apis:
       - type: Documentation
         url: https://www.hebcal.com/home/developer-apis
 common:
+  - url: https://www.hebcal.com/home/feed
+    type: BlogRSS
   - type: VulnerabilityDisclosure
     url: security/hebrew-calendar-vulnerability-disclosure.yml
   - type: DomainSecurity
